@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>HOME PAGE</h1>
+        <h1>SEARCH PAGE</h1>
       </main>
 
       <footer>
